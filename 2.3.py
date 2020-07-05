@@ -1,2 +1,2 @@
 username = input("Username?: ")
-print (f'Hello {username}, would you like to learn some Python today?')
+print (f'Hello {username}, wouqld you like to learn some Python today?')
