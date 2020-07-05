@@ -1,0 +1,1 @@
+odd = [print(number) for number in range(1, 21, 2)]

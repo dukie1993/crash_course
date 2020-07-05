@@ -1,0 +1,1 @@
+three = [print(number) for number in range(3, 33, 3)]

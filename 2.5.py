@@ -1,0 +1,1 @@
+print("A human being is part of a whole called by us \"Universe.\"")
